@@ -69,7 +69,7 @@ sections:
     design:
       columns: '1'
       
-  - block: experience
+ # - block: experience
     content:
       title: Experience
       # Date format for experience
